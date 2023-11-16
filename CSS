@@ -165,3 +165,18 @@
   text-align: center;
   color: #000;
 }
+.Tarifs {
+  width: 446px;
+  height: 192px;
+  margin: 14px 167px 25px 63px;
+  -webkit-text-stroke: 1px #000;
+  font-family: Nikukyu;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: -0.64px;
+  text-align: center;
+  color: #000;
+}
