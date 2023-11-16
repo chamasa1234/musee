@@ -136,3 +136,18 @@
   text-align: center;
   color: #f0f0f0;
 }
+.Rendez-nous-visite {
+  width: 306px;
+  height: 202px;
+  margin: 14px 278px 15px 60px;
+  -webkit-text-stroke: 1px #000;
+  font-family: Nikukyu;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: -0.64px;
+  text-align: center;
+  color: #000;
+}
