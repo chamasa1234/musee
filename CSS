@@ -12,3 +12,11 @@
   text-align: center;
   color: #000;
 }
+.Line-3 {
+  width: 1227px;
+  height: 2px;
+  margin: 158px 106px 50px 61px;
+  transform: rotate(-359.95deg);
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #000;
+}
